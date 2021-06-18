@@ -3,7 +3,7 @@ package("cglm")
 	set_homepage("https://github.com/recp/cglm")
 	set_description("Highly optimized 2D|3D math library, also known as OpenGL Mathematics (glm) for `C`. cglm provides lot of utils to help math operations to be fast and quick to write.")
 
-	set_urls("https://github.com/recp/cglm/archive/v$(version).zip")
+	set_urls("https://github.com/recp/cglm/archive/v$(version).tar.gz")
 
 	add_versions("0.8.3", "3a3f935f9f2ed5a8cb6337e421bf6f3a699a72d8cfe26fde1bbb8fde5c1c8aaf")
 
